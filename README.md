@@ -1,5 +1,5 @@
 # iRO-Status-Icon-Labels
-Current Labeled Icons:
+Current Icons (slightly outdated):
 
 ![Status Icons](status_icon_labeled.png)
 
@@ -11,3 +11,6 @@ In game previews:
 
 
 ![Preview Two](ingame_example_2.png)
+
+
+![Preview Three](ingame_example_3.png)
