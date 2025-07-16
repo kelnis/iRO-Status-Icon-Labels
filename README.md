@@ -1,2 +1,13 @@
 # iRO-Status-Icon-Labels
-Custom Status icons for use on iRO/International Ragnarok Online
+Current Labeled Icons:
+
+![Status Icons](status_icon_labeled.png)
+
+
+
+In game previews:
+
+![Preview One](ingame_example_1.png)
+
+
+![Preview Two](ingame_example_2.png)
