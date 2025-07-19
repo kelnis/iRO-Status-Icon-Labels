@@ -316,8 +316,6 @@ StateIconImgList = {
 		[EFST_IDs.EFST_AS_RAGGED_GOLEM_CARD] = "gogi.TGA",
 		[EFST_IDs.EFST_INFINITY_DRINK] = "infinity_drink_iro.tga",
 		[EFST_IDs.EFST_ANCILLA] = "ANCILLA.tga",
-		
-
 		[EFST_IDs.EFST_LAUDAAGNUS] = "LAUDAAGNUS.tga",
 		[EFST_IDs.EFST_LAUDARAMUS] = "LAUDARAMUS.tga",
 		[EFST_IDs.EFST_SACRIFICE] = "EXPIATIO.TGA",
@@ -361,13 +359,6 @@ StateIconImgList = {
 		[EFST_IDs.EFST_MAGICPOWER] = "¸¶¹ý·ÂÁõÆø.TGA",
 		[EFST_IDs.EFST_RAISINGDRAGON] = "Àá·æ½ÂÃµ.TGA",
 		[EFST_IDs.EFST_OVERBRANDREADY] = "lg_overbrandready.TGA",
-		[EFST_IDs.EFST_SPEARQUICKEN] = "spearquicken.TGA",
-		[EFST_IDs.EFST_FOOD_STR] = "str_gogi_fancy.tga",
-		[EFST_IDs.EFST_FOOD_AGI] = "agi_gogi_fancy.tga",
-		[EFST_IDs.EFST_FOOD_VIT] = "vit_gogi_fancy.tga",
-		[EFST_IDs.EFST_FOOD_INT] = "int_gogi_fancy.tga",
-		[EFST_IDs.EFST_FOOD_DEX] = "dex_gogi_fancy.tga",
-		[EFST_IDs.EFST_FOOD_LUK] = "luk_gogi_fancy.tga",		
 		[EFST_IDs.EFST_SHIELDSPELL] = "lg_shieldspell.TGA",
 		[EFST_IDs.EFST_BLOOD_SUCKER] = "gn_blood_sucker.tga",
 		[EFST_IDs.EFST_HOMUN_TIME] = "EFST_HOMUN_TIME.tga",
@@ -524,5 +515,24 @@ StateIconImgList = {
 		[EFST_IDs.EFST_ABR_MOTHER_NET] = "efst_abr_mother_net.tga",
 		[EFST_IDs.EFST_ABR_INFINITY] = "efst_abr_infinity.tga",
 		[EFST_IDs.EFST_EXPLOSIONSPIRITS] = "Æø±â.tga",
+
 	}
+
 }
+--[[
+Hard coded buffs, unable to customize
+		[EFST_IDs.EFST_SPEARQUICKEN] = "spear_quicken.tga",
+		[EFST_IDs.EFST_SAVAGE_STEAK] = "str_food_20.tga",
+		[EFST_IDs.EFST_DROCERA_HERB_STEAMED] = "agi_food_20.tga",
+		[EFST_IDs.EFST_MINOR_BBQ] = "vit_food_20.tga",
+		[EFST_IDs.EFST_COCKTAIL_WARG_BLOOD] = "int_food_20.tga",
+		[EFST_IDs.EFST_SIROMA_ICE_TEA] = "dex_food_20.tga",
+		[EFST_IDs.EFST_PUTTI_TAILS_NOODLES] = "luk_food_20.tga"	,	
+		[EFST_IDs.EFST_FOOD_STR_CASH] = "str_food_20.tga",
+		[EFST_IDs.EFST_FOOD_AGI_CASH] = "agi_food_20.tga",
+		[EFST_IDs.EFST_FOOD_VIT_CASH] = "vit_food_20.tga",
+		[EFST_IDs.EFST_FOOD_INT_CASH] = "int_food_20.tga",
+		[EFST_IDs.EFST_FOOD_DEX_CASH] = "dex_food_20.tga",
+		[EFST_IDs.EFST_FOOD_LUK_CASH] = "luk_food_20.tga"	
+		
+]]
