@@ -316,6 +316,8 @@ StateIconImgList = {
 		[EFST_IDs.EFST_AS_RAGGED_GOLEM_CARD] = "gogi.TGA",
 		[EFST_IDs.EFST_INFINITY_DRINK] = "infinity_drink_iro.tga",
 		[EFST_IDs.EFST_ANCILLA] = "ANCILLA.tga",
+		
+
 		[EFST_IDs.EFST_LAUDAAGNUS] = "LAUDAAGNUS.tga",
 		[EFST_IDs.EFST_LAUDARAMUS] = "LAUDARAMUS.tga",
 		[EFST_IDs.EFST_SACRIFICE] = "EXPIATIO.TGA",
@@ -359,6 +361,13 @@ StateIconImgList = {
 		[EFST_IDs.EFST_MAGICPOWER] = "¸¶¹ý·ÂÁõÆø.TGA",
 		[EFST_IDs.EFST_RAISINGDRAGON] = "Àá·æ½ÂÃµ.TGA",
 		[EFST_IDs.EFST_OVERBRANDREADY] = "lg_overbrandready.TGA",
+		[EFST_IDs.EFST_SPEARQUICKEN] = "spearquicken.TGA",
+		[EFST_IDs.EFST_FOOD_STR] = "str_gogi_fancy.tga",
+		[EFST_IDs.EFST_FOOD_AGI] = "agi_gogi_fancy.tga",
+		[EFST_IDs.EFST_FOOD_VIT] = "vit_gogi_fancy.tga",
+		[EFST_IDs.EFST_FOOD_INT] = "int_gogi_fancy.tga",
+		[EFST_IDs.EFST_FOOD_DEX] = "dex_gogi_fancy.tga",
+		[EFST_IDs.EFST_FOOD_LUK] = "luk_gogi_fancy.tga",		
 		[EFST_IDs.EFST_SHIELDSPELL] = "lg_shieldspell.TGA",
 		[EFST_IDs.EFST_BLOOD_SUCKER] = "gn_blood_sucker.tga",
 		[EFST_IDs.EFST_HOMUN_TIME] = "EFST_HOMUN_TIME.tga",
