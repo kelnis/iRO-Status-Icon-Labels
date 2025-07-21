@@ -11,6 +11,3 @@ In game previews:
 
 
 ![Preview Two](ingame_example_2.png)
-
-
-![Preview Three](ingame_example_3.png)
